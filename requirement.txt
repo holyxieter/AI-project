@@ -1,0 +1,7 @@
+torch==2.2.1+cu121
+torchvision==0.17.1
+Pillow==10.2.0
+matplotlib==3.8.0
+numpy==1.26.4
+# Python 版本
+# Python >= 3.11
